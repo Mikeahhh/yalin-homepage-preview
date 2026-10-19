@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>空天地一體化網絡：基於球面隨機幾何的上行鏈路連通性分析 | Yalin's Research Blog</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="/yalin-homepage-preview/assets/css/main.css?v=20261019194736">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/yalin-homepage-preview/assets/js/autofilter.js"></script>
+
+
+    <link rel="stylesheet" href="/yalin-homepage-preview/assets/css/main-zh.css?v=20261019194736">
+
+
+</head>
+<body>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+<label for="menu-toggle" class="menu-icon">☰</label>
+<label for="menu-toggle" class="overlay"></label>
+<div class="sidebar sidebar-container">
+    <label for="menu-toggle" class="close-icon">×</label>
+    
+        <div class="sidebar-inner">
+    <!-- <h2>Yalin's Research Blog</h2> -->
+
+    <div id="portrait" class="d-block">
+        <img src="/yalin-homepage-preview/assets/images/yl_liu.jpg" class="img-fluid mt-3" alt="Profile Image" style="max-width: 200px;">
+
+        <h2 class="text-white my-3">劉亞林博士 (Alin)</h2>
+        <h3 class="text-white my-3">香港都會大學</h3>
+    </div>
+
+    <ul>
+        <li><a href="/yalin-homepage-preview/zh-TW/">簡介</a></li>
+        <li><a href="/yalin-homepage-preview/zh-TW/resume">履歷</a></li>
+        <li><a href="/yalin-homepage-preview/zh-TW/research">研究</a></li>
+        <li><a href="/yalin-homepage-preview/zh-TW/teams">團隊</a></li>
+        <li><a href="/yalin-homepage-preview/zh-TW/teaching">教學</a></li>
+        <li><a href="/yalin-homepage-preview/zh-TW/contact">聯絡方式</a></li>
+    </ul>
+
+    <!-- <nav class="language-switcher">
+        
+            <a href="/yalin-homepage-preview">EN</a>
+            <a href="/yalin-homepage-preview/zh-TW">繁</a>
+            <a href="/yalin-homepage-preview/zh-CN">简</a>
+        
+    </nav> -->
+
+    <div class="social-icons">
+        <a href="https://github.com/yalin-liu" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+        <!-- <a href="https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/" target="_blank"><i class="fa fa-university"></i></a> -->
+        <a href="https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN" target="_blank"><i class="fa fa-graduation-cap"></i></a>
+        <a href="https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act" target="_blank"><i class="fab fa-researchgate"></i></a>
+        <a href="https://www.linkedin.com/in/alin-yalin-liu" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <!-- <a href="https://orcid.org/0000-0003-2870-4598" target="_blank"><i class="fab fa-orcid"></i></a> -->
+    </div>
+</div>
+    
+</div>
+
+    <nav class="language-switcher">
+    
+        <a href="/yalin-homepage-preview/study-intro/2024/02/16/JSAC-SAGIN.html">EN</a>
+        <a href="/yalin-homepage-preview/zh-TW/study-intro/2024/02/16/JSAC-SAGIN.html">繁</a>
+        <a href="/yalin-homepage-preview/zh-CN/study-intro/2024/02/16/JSAC-SAGIN.html">简</a>
+    
+</nav>
+
+    
+    <div class="container-fluid">
+        <div class="wrapper">
+            <div class="content">
+                <article class="post h-entry content-wrapper" lang="zh-TW">
+  <header class="post-header">
+    <h1 class="post-title p-name">空天地一體化網絡：基於球面隨機幾何的上行鏈路連通性分析</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2024-02-16T00:00:00+08:00">
+        2024年2月16日
+      </time>
+    </p>
+  </header>
+  <div class="post-content e-content"><h2 id="引用資訊">引用資訊</h2>
+
+<p><strong>Yalin Liu</strong>, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, Chi Chung Lee，〈空天地一體化網絡：基於球面隨機幾何的上行鏈路連通性分析〉，<em>IEEE Journal on Selected Areas in Communications</em>（SCI 影響因子：16.4，2022年；JCR Q1），第 42 卷，第 5 期，1387–1402 頁，2024，DOI: 10.1109/JSAC.2024.3365891。<a href="https://ieeexplore.ieee.org/document/10438999">出版頁面</a></p>
+
+<h2 id="摘要">摘要</h2>
+
+<p>空天地一體化網絡（SAGIN）融合了空中、地面和衛星通信的優勢，是一種能夠在全球範圍內提供海量接入、無縫覆蓋和可靠傳輸的新型網絡方案。在 SAGIN 中，地面用戶（GU）到衛星的上行連通性對於實現全球範圍的數據採集和交互至關重要，是實際部署的重要技術基礎。本文考慮地面用戶與空中飛行器（AV）在全球範圍內的分布，建立 SAGIN 上行連通性的精確分析模型。具體而言，本文研究上行路徑連通性，即在有或沒有空中飛行器中繼的情況下，建立從地面用戶到衛星的端到端路徑的概率。由於地面用戶和空中飛行器近似分布於球面而非水平平面，網絡建模變得更加複雜。為解決這一問題，本文提出基於球面隨機幾何的分析方法，並據此推導 SAGIN 路徑連通性的解析表達式。大量仿真驗證了分析模型的準確性。</p>
+
+<h2 id="論文全文">論文全文</h2>
+
+<p><a href="/yalin-homepage-preview/papers/Alin_JSAC_A%20minor-corrected%20version_.pdf">小幅修正版</a></p>
+
+<p>這是一個略作修訂的版本，糾正了公式 (3c) 中的筆誤，即公式項的順序。需要說明的是，已發表版本中的所有後續公式及相關公式原本使用的都是正確形式，均不受影響。— Yalin Liu</p>
+</div>
+</article>
+
+            </div>
+            <div class="copyright">
+    
+        <p class="p-3">版權聲明：版權及相關權利由作者或各自的版權持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。僅在遵守其限制條件（例如僅限個人使用或學術用途）的情況下，您才能下載這些內容。在線版本可能與最終版本略有不同。這些內容在線提供僅為方便學術分享。</p>
+    
+</div>
+        </div>
+    </div>
+</body>
+</html>

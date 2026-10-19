@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yalin&apos;s Research Blog</title>
+    <description>A blog and portfolio by Yalin Liu</description>
+    <link>https://mikeahhh.github.io/yalin-homepage-preview/</link>
+    <atom:link href="https://mikeahhh.github.io/yalin-homepage-preview/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Oct 2026 19:47:36 +0800</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:47:36 +0800</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Research Staff/Student Wanted</title>
+        <description>
+&lt;p&gt;&lt;br /&gt; &lt;strong&gt;Wanted:&lt;/strong&gt; You are desired/interested in doing research related to AI-enabled networks, 6G, Blockchain, Web3, and SAGIN. &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;PhD and MPhil students&lt;/em&gt;&lt;br /&gt;
+  You need to pass the TOEFL test or IELTS test.&lt;br /&gt;
+  The excellent students may get PGS: HK$18,500 per month.&lt;br /&gt;
+  &lt;a href=&quot;https://admissions.hkmu.edu.hk/rpg/submit-application/&quot;&gt;Click for admission application procedures of HKMU.&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Research Assistants (RA)&lt;/em&gt;&lt;br /&gt;
+  You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc. &lt;br /&gt;
+  You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc. &lt;br /&gt;
+  Those with a master’s degree or above and published journal papers are preferred. &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Those interested can contact me via email (ylliu@hkmu.edu.hk). &lt;br /&gt; &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 06 Feb 2025 00:00:00 +0800</pubDate>
+        <link>https://mikeahhh.github.io/yalin-homepage-preview/research-team/2025/02/06/wanted.html</link>
+        <guid isPermaLink="true">https://mikeahhh.github.io/yalin-homepage-preview/research-team/2025/02/06/wanted.html</guid>
+        
+        <category>Wanted</category>
+        
+        
+        <category>Research-Team</category>
+        
+      </item>
+    
+      <item>
+        <title>Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#citation&quot; id=&quot;markdown-toc-citation&quot;&gt;Citation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#abstract&quot; id=&quot;markdown-toc-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#full-paper&quot; id=&quot;markdown-toc-full-paper&quot;&gt;Full paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;citation&quot;&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Yalin Liu&lt;/strong&gt;,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  &amp;amp; Chi Chung Lee,  “Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, “ &lt;em&gt;IEEE Journal on Selected Areas in Communications&lt;/em&gt; &lt;strong&gt;(SCI IF=16.4 in 2022, JCR Q1)&lt;/strong&gt;, vol. 42, no. 5, pp. 1387–1402, 2024,  DOI: 10.1109/JSAC.2024.3365891. &lt;a href=&quot;https://ieeexplore.ieee.org/document/10438999&quot;&gt;Publisher page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;By integrating the merits of aerial, terrestrial, and satellite communications, the space-air-ground integrated network (SAGIN) is an emerging solution that can provide massive access, seamless coverage, and reliable transmissions for global-range applications. In SAGINs, the uplink connectivity from ground users (GUs) to the satellite is essential because it ensures global-range data collections and interactions, thereby paving the technical foundation for practical implementations of SAGINs. In this article, we aim to establish an accurate analytical model for the uplink connectivity of SAGINs in consideration of the global distributions of both GUs and aerial vehicles (AVs). Particularly, we investigate the uplink path connectivity of SAGINs, which refers to the probability of establishing the end-to-end path from GUs to the satellite with or without AV relays. However, such an investigation on SAGINs is challenging because all GUs and AVs are approximately distributed on a spherical surface (instead of the horizontal surface), resulting in the complexity of network modeling. To address this challenge, this paper presents a new analytical approach based on spherical stochastic geometry. Based on this approach, we derive the analytical expression of the path connectivity in SAGINs. Extensive simulations confirm the accuracy of the analytical model.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-paper&quot;&gt;Full paper&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/yalin-homepage-preview/papers/Alin_JSAC_A%20minor-corrected%20version_.pdf&quot;&gt;A minor-corrected version&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a slightly revised version that corrects a formula typo in Eq. (3c). The order of formula terms is corrected. It is worth noting that all subsequent formulas and the related formulas (in the published version) use the correct one, and they are not affected. — Yalin Liu&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Feb 2024 00:00:00 +0800</pubDate>
+        <link>https://mikeahhh.github.io/yalin-homepage-preview/study-intro/2024/02/16/JSAC-SAGIN.html</link>
+        <guid isPermaLink="true">https://mikeahhh.github.io/yalin-homepage-preview/study-intro/2024/02/16/JSAC-SAGIN.html</guid>
+        
+        <category>SAGIN</category>
+        
+        <category>Spherical-Stochastic-Geometry</category>
+        
+        <category>Uplink-Connectivity</category>
+        
+        <category>Network-Modeling</category>
+        
+        
+        <category>Study-Intro</category>
+        
+      </item>
+    
+  </channel>
+</rss>
